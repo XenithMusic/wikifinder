@@ -6,16 +6,21 @@ You will not lose access to the page title name.
 
 ### difficulty
 Difficulty is represented by the amount of clicks allowed.<br>
-\* = subject to later change<br><br>
+\* = subject to later change<br>
 EASY
-- Infinite amount of link clicks<br><br>
+- Infinite amount of link clicks<br>
+
 MEDIUM
-- 50 link clicks\*<br><br>
+- 50 link clicks\*<br>
+
 HARD
-- 10 link clicks\*<br><br>
+- 10 link clicks\*<br>
+
 HARDCORE
-- 7 link clicks\*<br><br>
+- 7 link clicks\*<br>
+
 IMPOSSIBLE
-- 5 link clicks\*<br><br>
+- 5 link clicks\*<br>
+
 OVERCONFIDENT
-- 3 link clicks\*<br><br>
+- 3 link clicks\*<br>

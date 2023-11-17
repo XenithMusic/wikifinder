@@ -1,0 +1,21 @@
+html{
+    overflow: hidden;
+    background-color: #eee;
+}
+body{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    width: 90%;
+}
+iframe{
+    border: #aaa 1px solid;
+    height:94.9vh;
+}
+.bottom{
+    position:absolute;
+    bottom:0;
+    width:50%;
+    height:5vh;
+    margin-left:12.5%;
+}

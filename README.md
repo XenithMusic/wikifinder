@@ -7,6 +7,7 @@ You will not lose access to the page title name.
 ### difficulty
 Difficulty is represented by the amount of clicks allowed.<br>
 \* = subject to later change<br>
+
 EASY
 - Infinite amount of link clicks<br>
 
